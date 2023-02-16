@@ -45,6 +45,12 @@ Welcome to OverTheWire!
 
 - comandos que sirven para la solución:
     ls , cd , cat , file , du , find
+
+# Notas Adicionales
+| Comando | Descripcion|
+|------------|--------------|
+|cat|muestra el contenido de un archivo|
+
 # Referencias
 https://www.google.com/search?q=dashed+filename
 http://tldp.org/LDP/abs/html/special-chars.html
