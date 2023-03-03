@@ -1,8 +1,8 @@
-# Level 0 -> 0
+# Reto
 
 # Descripción
 
-# Datos de acceso
+# Pistas
 
 # Solución
 
@@ -10,6 +10,8 @@
 
 ```
 
+# Bandera
+picoCTF{}
 # Comentarios
 |cmd| desc|
 |-----|------|
