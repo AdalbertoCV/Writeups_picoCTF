@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primer-parcial/2019/08-Based.md",
+                "file": "primer-parcial/2019/04-What´s a Net cat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "primer-parcial/2019/04-What´s a Net cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "primer-parcial/2019/04-What´s a Net cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "primer-parcial/2019/04-What´s a Net cat.md"
+              }
             }
           }
         ]
@@ -142,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20b9ffe455e8ba46",
+  "active": "38334aecfa8cb876",
   "lastOpenFiles": [
+    "primer-parcial/2019/02-Warmed Up.md",
+    "primer-parcial/2019/01-Lest Warm Up.md",
+    "primer-parcial/2019/08-Based.md",
     "primer-parcial/2019/Plantilla.md",
     "primer-parcial/2019/10-mus1c.md",
     "primer-parcial/2019/09-Plumbing.md",
-    "primer-parcial/2019/08-Based.md",
     "primer-parcial/2019/07-First Grep.md",
     "primer-parcial/2019/05-Strings it.md",
     "primer-parcial/2019/06-Bases.md",
@@ -168,8 +174,6 @@
     "retos-bandit/Level 11 a 12.md",
     "retos-bandit/Level 10 a 11.md",
     "retos-bandit/Level 9 a 10.md",
-    "retos-bandit/Level 8 a 9.md",
-    "retos-bandit/Level 7 a 8.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "primer-parcial/2019",

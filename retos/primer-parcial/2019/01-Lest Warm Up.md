@@ -21,5 +21,5 @@ picoCTF{p}
 # Comentarios
 |cmd / function| desc|
 |-----|------|
-| int()| covierte a entero el parametro|
+| int()| convierte a entero el parametro|
 | chr()| convierte a ascii el parametro|
