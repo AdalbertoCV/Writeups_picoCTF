@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9faea529ceddbe",
+        "id": "35a06ff95bbfe632",
         "type": "tabs",
         "children": [
           {
-            "id": "38334aecfa8cb876",
+            "id": "f0f408eef5934225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primer-parcial/2019/04-What´s a Net cat.md",
+                "file": "primer-parcial/2021/04-Static ain't always noise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer-parcial/2019/04-What´s a Net cat.md",
+                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer-parcial/2019/04-What´s a Net cat.md",
+                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer-parcial/2019/04-What´s a Net cat.md"
+                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md"
               }
             }
           }
@@ -146,12 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38334aecfa8cb876",
+  "active": "20b9ffe455e8ba46",
   "lastOpenFiles": [
+    "primer-parcial/Plantilla.md",
+    "primer-parcial/2021/05-Tab,Tab,Atack.md",
+    "primer-parcial/2021/06-Magikarp Ground Mission.md",
+    "primer-parcial/2021/04-Static ain't always noise.md",
+    "primer-parcial/2021/01-Obedient Cat.md",
+    "primer-parcial/2021/02-Wave a flag.md",
+    "primer-parcial/2021/03-Nice Netcat....md",
+    "primer-parcial/2019/04-What´s a Net cat.md",
     "primer-parcial/2019/02-Warmed Up.md",
     "primer-parcial/2019/01-Lest Warm Up.md",
     "primer-parcial/2019/08-Based.md",
-    "primer-parcial/2019/Plantilla.md",
     "primer-parcial/2019/10-mus1c.md",
     "primer-parcial/2019/09-Plumbing.md",
     "primer-parcial/2019/07-First Grep.md",
@@ -167,13 +174,6 @@
     "retos-bandit/Level 24 a 25.md",
     "retos-bandit/Level 23 a 24.md",
     "retos-bandit/Level 22 a 23.md",
-    "retos-bandit/Level 15 a 16.md",
-    "retos-bandit/Level 14 a 15.md",
-    "retos-bandit/Level 13 a 14.md",
-    "retos-bandit/Level 12 a 13.md",
-    "retos-bandit/Level 11 a 12.md",
-    "retos-bandit/Level 10 a 11.md",
-    "retos-bandit/Level 9 a 10.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "primer-parcial/2019",
