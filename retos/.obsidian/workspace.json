@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35a06ff95bbfe632",
+        "id": "c403a0d73e5d7c05",
         "type": "tabs",
         "children": [
           {
-            "id": "f0f408eef5934225",
+            "id": "6f3ac2ce9adfa10a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primer-parcial/2021/04-Static ain't always noise.md",
+                "file": "primer-parcial/2022/03-Codebook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md",
+                "file": "primer-parcial/2022/03-Codebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md",
+                "file": "primer-parcial/2022/03-Codebook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md"
+                "file": "primer-parcial/2022/03-Codebook.md"
               }
             }
           }
@@ -146,12 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20b9ffe455e8ba46",
+  "active": "6f3ac2ce9adfa10a",
   "lastOpenFiles": [
+    "primer-parcial/2022/06-Glitch Cat.md",
+    "primer-parcial/2022/05-fixme2.py.md",
+    "primer-parcial/2022/07-PW Crack 1.md",
+    "primer-parcial/2022/08-PW Crack 2.md",
+    "primer-parcial/2022/09-PW Crack 3.md",
     "primer-parcial/Plantilla.md",
+    "primer-parcial/2022/04-fixme1.py.md",
+    "primer-parcial/2022/03-Codebook.md",
+    "primer-parcial/2022/02-Convertme.py.md",
+    "primer-parcial/2022/01-Runme.py.md",
+    "primer-parcial/2021/04-Static ain't always noise.md",
     "primer-parcial/2021/05-Tab,Tab,Atack.md",
     "primer-parcial/2021/06-Magikarp Ground Mission.md",
-    "primer-parcial/2021/04-Static ain't always noise.md",
     "primer-parcial/2021/01-Obedient Cat.md",
     "primer-parcial/2021/02-Wave a flag.md",
     "primer-parcial/2021/03-Nice Netcat....md",
@@ -165,15 +174,6 @@
     "primer-parcial/2019/05-Strings it.md",
     "primer-parcial/2019/06-Bases.md",
     "retos-bandit/Level 32 a 33.md",
-    "retos-bandit/Level 31 a 32.md",
-    "retos-bandit/Level 30 a 31.md",
-    "retos-bandit/Level 29 a 30.md",
-    "retos-bandit/Level 28 a 29.md",
-    "retos-bandit/Level 27 a 28.md",
-    "retos-bandit/Level 25 a 26.md",
-    "retos-bandit/Level 24 a 25.md",
-    "retos-bandit/Level 23 a 24.md",
-    "retos-bandit/Level 22 a 23.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "primer-parcial/2019",
