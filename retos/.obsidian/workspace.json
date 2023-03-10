@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c403a0d73e5d7c05",
+        "id": "5bb34593a37abe3c",
         "type": "tabs",
         "children": [
           {
-            "id": "6f3ac2ce9adfa10a",
+            "id": "407ee86655483a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primer-parcial/2022/03-Codebook.md",
+                "file": "retos-web/05-picobrowser.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer-parcial/2022/03-Codebook.md",
+                "file": "retos-web/05-picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer-parcial/2022/03-Codebook.md",
+                "file": "retos-web/05-picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer-parcial/2022/03-Codebook.md"
+                "file": "retos-web/05-picobrowser.md"
               }
             }
           }
@@ -146,18 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f3ac2ce9adfa10a",
+  "active": "407ee86655483a6a",
   "lastOpenFiles": [
-    "primer-parcial/2022/06-Glitch Cat.md",
+    "retos-web/06-Client-side-again.md",
+    "retos-web/05-picobrowser.md",
+    "primer-parcial/Plantilla.md",
+    "retos-web/04-Dont-use-client-side.md",
+    "retos-web/03-Logon.md",
+    "retos-web/02-Where are the robots.md",
+    "retos-web/01-Insp3ct0r.md",
+    "retos-bandit/Plantilla.md",
+    "retos-web",
+    "primer-parcial/2022/09-PW Crack 3.md",
+    "primer-parcial/2019/08-Based.md",
+    "primer-parcial/2022/01-Runme.py.md",
+    "primer-parcial/2022/02-Convertme.py.md",
+    "primer-parcial/2022/03-Codebook.md",
+    "primer-parcial/2022/04-fixme1.py.md",
     "primer-parcial/2022/05-fixme2.py.md",
+    "primer-parcial/2022/06-Glitch Cat.md",
     "primer-parcial/2022/07-PW Crack 1.md",
     "primer-parcial/2022/08-PW Crack 2.md",
-    "primer-parcial/2022/09-PW Crack 3.md",
-    "primer-parcial/Plantilla.md",
-    "primer-parcial/2022/04-fixme1.py.md",
-    "primer-parcial/2022/03-Codebook.md",
-    "primer-parcial/2022/02-Convertme.py.md",
-    "primer-parcial/2022/01-Runme.py.md",
     "primer-parcial/2021/04-Static ain't always noise.md",
     "primer-parcial/2021/05-Tab,Tab,Atack.md",
     "primer-parcial/2021/06-Magikarp Ground Mission.md",
@@ -166,14 +175,6 @@
     "primer-parcial/2021/03-Nice Netcat....md",
     "primer-parcial/2019/04-What´s a Net cat.md",
     "primer-parcial/2019/02-Warmed Up.md",
-    "primer-parcial/2019/01-Lest Warm Up.md",
-    "primer-parcial/2019/08-Based.md",
-    "primer-parcial/2019/10-mus1c.md",
-    "primer-parcial/2019/09-Plumbing.md",
-    "primer-parcial/2019/07-First Grep.md",
-    "primer-parcial/2019/05-Strings it.md",
-    "primer-parcial/2019/06-Bases.md",
-    "retos-bandit/Level 32 a 33.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "primer-parcial/2019",
