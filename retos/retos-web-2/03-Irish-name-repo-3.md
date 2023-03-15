@@ -8,13 +8,14 @@ Seems like the password is encrypted.
 # Solución
 
 ```bash
+#Inyeccion sql
 
+password: ' be 1=1--
+
+# Logged in!
+
+Your flag is: picoCTF{3v3n_m0r3_SQL_7f5767f6}
 ```
 
 # Bandera
-picoCTF{}
-# Comentarios
-|cmd| desc|
-|-----|------|
-
-# Referencias
+picoCTF{3v3n_m0r3_SQL_7f5767f6}

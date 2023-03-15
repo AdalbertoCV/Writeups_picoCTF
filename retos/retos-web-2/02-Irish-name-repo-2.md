@@ -8,13 +8,14 @@ The password is being filtered
 # Solución
 
 ```bash
+# Inyeccion sql
 
+user: admin';
+
+# Logged in!
+
+Your flag is: picoCTF{m0R3_SQL_plz_aee925db}
 ```
 
 # Bandera
-picoCTF{}
-# Comentarios
-|cmd| desc|
-|-----|------|
-
-# Referencias
+picoCTF{m0R3_SQL_plz_aee925db}

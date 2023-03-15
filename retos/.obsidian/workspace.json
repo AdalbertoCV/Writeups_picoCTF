@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "407ee86655483a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "primer-parcial/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0486e08df29ebb7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "retos-web-2/04-JaWT Scratchpad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eedbe48dfe99ca66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concurso/01-money-ware.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-web-2/04-JaWT Scratchpad.md",
+                "file": "Concurso/01-money-ware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-web-2/04-JaWT Scratchpad.md",
+                "file": "Concurso/01-money-ware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-web-2/04-JaWT Scratchpad.md"
+                "file": "Concurso/01-money-ware.md"
               }
             }
           }
@@ -159,14 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20b9ffe455e8ba46",
+  "active": "eedbe48dfe99ca66",
   "lastOpenFiles": [
-    "retos-web-2/03-Irish-name-repo-3.md",
-    "retos-web-2/04-JaWT Scratchpad.md",
-    "retos-web-2/02-Irish-name-repo-2.md",
-    "retos-web-2/01-Irish-name-repo 1.md",
-    "Pasted image 20230313183507.png",
+    "Concurso/02-PcapPoisoning.md",
     "primer-parcial/Plantilla.md",
+    "Concurso/01-money-ware.md",
+    "retos-web-2/01-Irish-name-repo 1.md",
+    "retos-web-2/04-JaWT Scratchpad.md",
+    "Concurso",
+    "retos-web-2/03-Irish-name-repo-3.md",
+    "retos-web-2/02-Irish-name-repo-2.md",
+    "Pasted image 20230313183507.png",
     "retos-web/05-picobrowser.md",
     "retos-web-2",
     "retos-web/06-Client-side-again.md",
@@ -188,8 +191,6 @@
     "primer-parcial/2022/08-PW Crack 2.md",
     "primer-parcial/2021/04-Static ain't always noise.md",
     "primer-parcial/2021/05-Tab,Tab,Atack.md",
-    "primer-parcial/2021/06-Magikarp Ground Mission.md",
-    "primer-parcial/2021/01-Obedient Cat.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "primer-parcial/2019",
