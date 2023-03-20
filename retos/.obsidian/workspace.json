@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "da244dd7baa967f0",
+        "id": "ea84db816f85d764",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8e8d033fe0b32f",
+            "id": "9865f37f7d440816",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Concurso/14-Rules 2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 276.5
   },
   "right": {
     "id": "7eee77f474dbc0e5",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concurso/14-Rules 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concurso/14-Rules 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Concurso/14-Rules 2023.md"
+              }
             }
           }
         ]
@@ -138,38 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc8e8d033fe0b32f",
+  "active": "9865f37f7d440816",
   "lastOpenFiles": [
-    "retos-web/12-Cookies.md",
-    "retos-web/13-Scavenger Hun.md",
-    "primer-parcial/Plantilla.md",
-    "retos-web/11-GET aHEAD.md",
-    "Concurso/02-PcapPoisoning.md",
+    "Concurso/12-Timer.md",
+    "Concurso/13-useless.md",
     "Concurso/01-money-ware.md",
-    "retos-web-2/01-Irish-name-repo 1.md",
-    "retos-web-2/04-JaWT Scratchpad.md",
+    "Concurso/11-chrono.md",
+    "Concurso/10-who is it.md",
+    "Concurso/04-Reverse.md",
+    "Concurso/chrono.md",
+    "Concurso/03-MatchTheRegex.md",
+    "Concurso/02-Safe-opener-2.md",
+    "Concurso/09-rotation.md",
+    "Concurso/08-repetitions.md",
+    "Concurso/07-ReadMyCert.md",
+    "Concurso/06-Permissions.md",
+    "Concurso/05-PcapPoisoning.md",
+    "retos-web/13-Scavenger Hun.md",
+    "retos-web/12-Cookies.md",
+    "retos-web/11-GET aHEAD.md",
+    "retos-bandit/Level 21 a 22.md",
+    "retos-bandit/Level 20 a 21.md",
+    "retos-bandit/Level 19 a 20.md",
+    "retos-bandit/Level 18 a 19.md",
+    "retos-bandit/Level 17 a 18.md",
+    "retos-bandit/Level 16 a 17.md",
+    "retos-bandit/Level 15 a 16.md",
+    "retos-bandit/Level 14 a 15.md",
+    "retos-bandit/Level 13 a 14.md",
     "Concurso",
-    "retos-web-2/03-Irish-name-repo-3.md",
-    "retos-web-2/02-Irish-name-repo-2.md",
     "Pasted image 20230313183507.png",
-    "retos-web/05-picobrowser.md",
     "retos-web-2",
-    "retos-web/06-Client-side-again.md",
-    "retos-web/04-Dont-use-client-side.md",
-    "retos-web/03-Logon.md",
-    "retos-web/02-Where are the robots.md",
-    "retos-web/01-Insp3ct0r.md",
-    "retos-bandit/Plantilla.md",
     "retos-web",
-    "primer-parcial/2022/09-PW Crack 3.md",
-    "primer-parcial/2019/08-Based.md",
-    "primer-parcial/2022/01-Runme.py.md",
-    "primer-parcial/2022/02-Convertme.py.md",
-    "primer-parcial/2022/03-Codebook.md",
-    "primer-parcial/2022/04-fixme1.py.md",
-    "primer-parcial/2022/05-fixme2.py.md",
-    "primer-parcial/2022/06-Glitch Cat.md",
-    "primer-parcial/2022/07-PW Crack 1.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "primer-parcial/2019",
