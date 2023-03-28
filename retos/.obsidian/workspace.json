@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aed63d40e4aae3cf",
+        "id": "baf29fd2feabb25b",
         "type": "tabs",
         "children": [
           {
-            "id": "d7f48d6e079ba05a",
+            "id": "c9a2d636880e3e5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-Forensic/10-Shark on wire 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Forensic/10-Shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Forensic/10-Shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "retos-Forensic/10-Shark on wire 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,37 +138,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7f48d6e079ba05a",
+  "active": "c9a2d636880e3e5d",
   "lastOpenFiles": [
-    "retos-Forensic/08-c0rrupt.md",
+    "Concurso/14-Rules 2023.md",
+    "Concurso/12-Timer.md",
+    "Concurso/06-Permissions.md",
+    "Concurso/05-PcapPoisoning.md",
+    "Concurso/04-Reverse.md",
+    "Concurso/03-MatchTheRegex.md",
+    "Concurso/02-Safe-opener-2.md",
+    "Concurso/01-money-ware.md",
+    "Concurso/13-useless.md",
+    "Concurso/11-chrono.md",
+    "Concurso/10-who is it.md",
+    "Concurso/09-rotation.md",
+    "Concurso/08-repetitions.md",
+    "Concurso/07-ReadMyCert.md",
+    "Concurso",
+    "retos-Forensic/10-Shark on wire 2.md",
     "retos-Forensic/09-Like1000.md",
-    "retos-Forensic/07-WhitePages.md",
     "retos-Forensic/06-m00nwalk.md",
+    "retos-Forensic/07-WhitePages.md",
+    "retos-Forensic/08-c0rrupt.md",
     "retos-Forensic/05-What Lies Within.md",
     "retos-Forensic/04-Extensions.md",
     "retos-Forensic/03-Shark on wire 1.md",
     "retos-Forensic/02-So Meta.md",
-    "retos-Forensic/10-Shark on wire 2.md",
     "retos-Forensic/01-Glory of the garden.md",
     "Pasted image 20230322120823.png",
     "Pasted image 20230322120811.png",
     "primer-parcial/Plantilla.md",
     "retos-Forensic",
     "retos-web/13-Scavenger Hun.md",
-    "retos-web/12-Cookies.md",
-    "retos-web/11-GET aHEAD.md",
-    "retos-web/10-JaWT Scratchpad.md",
-    "retos-web/09-Irish-name-repo-3.md",
-    "retos-web/08-Irish-name-repo-2.md",
-    "retos-web/07-Irish-name-repo 1.md",
-    "retos-web/06-Client-side-again.md",
-    "retos-web/05-picobrowser.md",
-    "retos-web/03-Logon.md",
-    "retos-web/04-Dont-use-client-side.md",
-    "Concurso/12-Timer.md",
-    "Concurso/13-useless.md",
-    "Concurso/01-money-ware.md",
-    "Concurso",
     "Pasted image 20230313183507.png",
     "retos-web-2",
     "retos-web",
