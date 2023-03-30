@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "baf29fd2feabb25b",
+        "id": "967da7c3b589e314",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a2d636880e3e5d",
+            "id": "19f9e26027b4af8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "retos-Forensic/12-WebNet1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "retos-Forensic/12-WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "retos-Forensic/12-WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "retos-Forensic/12-WebNet1.md"
+              }
             }
           }
         ]
@@ -138,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9a2d636880e3e5d",
+  "active": "19f9e26027b4af8e",
   "lastOpenFiles": [
+    "retos-Forensic/14-tunn3l_v1s10n.md",
+    "retos-Forensic/15-MacroHard WeakEdge.md",
+    "retos-Forensic/13-Matryoshka doll.md",
+    "retos-Forensic/12-WebNet1.md",
+    "retos-Forensic/11-WebNet0.md",
+    "retos-Forensic/01-Glory of the garden.md",
     "Concurso/14-Rules 2023.md",
     "Concurso/12-Timer.md",
     "Concurso/06-Permissions.md",
@@ -161,15 +175,9 @@
     "retos-Forensic/07-WhitePages.md",
     "retos-Forensic/08-c0rrupt.md",
     "retos-Forensic/05-What Lies Within.md",
-    "retos-Forensic/04-Extensions.md",
-    "retos-Forensic/03-Shark on wire 1.md",
-    "retos-Forensic/02-So Meta.md",
-    "retos-Forensic/01-Glory of the garden.md",
     "Pasted image 20230322120823.png",
     "Pasted image 20230322120811.png",
-    "primer-parcial/Plantilla.md",
     "retos-Forensic",
-    "retos-web/13-Scavenger Hun.md",
     "Pasted image 20230313183507.png",
     "retos-web-2",
     "retos-web",
