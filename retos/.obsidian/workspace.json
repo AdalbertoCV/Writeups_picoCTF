@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "967da7c3b589e314",
+        "id": "e8b49e02c8db0949",
         "type": "tabs",
         "children": [
           {
-            "id": "19f9e26027b4af8e",
+            "id": "37dab8f9858d0d1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Forensic/12-WebNet1.md",
+                "file": "segundo-parcial/retos-forensic/07-St3g0...md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Forensic/12-WebNet1.md",
+                "file": "segundo-parcial/retos-forensic/07-St3g0...md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Forensic/12-WebNet1.md",
+                "file": "segundo-parcial/retos-forensic/07-St3g0...md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Forensic/12-WebNet1.md"
+                "file": "segundo-parcial/retos-forensic/07-St3g0...md"
               }
             }
           }
@@ -146,35 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19f9e26027b4af8e",
+  "active": "37dab8f9858d0d1c",
   "lastOpenFiles": [
-    "retos-Forensic/14-tunn3l_v1s10n.md",
-    "retos-Forensic/15-MacroHard WeakEdge.md",
-    "retos-Forensic/13-Matryoshka doll.md",
-    "retos-Forensic/12-WebNet1.md",
-    "retos-Forensic/11-WebNet0.md",
-    "retos-Forensic/01-Glory of the garden.md",
-    "Concurso/14-Rules 2023.md",
-    "Concurso/12-Timer.md",
-    "Concurso/06-Permissions.md",
-    "Concurso/05-PcapPoisoning.md",
-    "Concurso/04-Reverse.md",
-    "Concurso/03-MatchTheRegex.md",
-    "Concurso/02-Safe-opener-2.md",
-    "Concurso/01-money-ware.md",
-    "Concurso/13-useless.md",
-    "Concurso/11-chrono.md",
-    "Concurso/10-who is it.md",
-    "Concurso/09-rotation.md",
-    "Concurso/08-repetitions.md",
-    "Concurso/07-ReadMyCert.md",
-    "Concurso",
-    "retos-Forensic/10-Shark on wire 2.md",
-    "retos-Forensic/09-Like1000.md",
+    "segundo-parcial/retos-forensic/05-Packets Primer.md",
+    "segundo-parcial/retos-forensic/06-Redaction gone wrong.md",
+    "segundo-parcial/retos-forensic/07-St3g0...md",
     "retos-Forensic/06-m00nwalk.md",
-    "retos-Forensic/07-WhitePages.md",
-    "retos-Forensic/08-c0rrupt.md",
-    "retos-Forensic/05-What Lies Within.md",
+    "segundo-parcial/Plantilla.md",
+    "segundo-parcial/retos-forensic/04-Lookey Here.md",
+    "segundo-parcial/retos-forensic/03-Enhance!.md",
+    "segundo-parcial/retos-forensic/02-Wireshark doo dooo do doo...md",
+    "segundo-parcial/retos-forensic/01-Information.md",
+    "retos-Crypto/Plantilla.md",
+    "retos-Crypto/04-Caesar.md",
+    "retos-Crypto/05-la cifra de.md",
+    "retos-Crypto/06-Tapping.md",
+    "retos-Crypto/07-Waves over lambda.md",
+    "retos-Crypto/01-The Numbers.md",
+    "retos-Crypto/02-Easy1.md",
+    "retos-Crypto/03-13.md",
+    "primer-parcial/Plantilla.md",
+    "segundo-parcial/retos-web/01-Includes.md",
+    "segundo-parcial/retos-web/09-SQL Direct.md",
+    "retos-Crypto",
+    "segundo-parcial/retos-web/08-Secrets.md",
+    "segundo-parcial/retos-web/07-Roboto Sans.md",
+    "segundo-parcial/Untitled.md",
+    "segundo-parcial/retos-web/06-Power Cookie.md",
+    "segundo-parcial/retos-web/05-Forbidden Paths.md",
+    "segundo-parcial/retos-web/04-Search Source.md",
+    "segundo-parcial/retos-forensic",
+    "segundo-parcial/retos-web",
+    "segundo-parcial",
+    "Concurso",
     "Pasted image 20230322120823.png",
     "Pasted image 20230322120811.png",
     "retos-Forensic",
@@ -182,8 +186,6 @@
     "retos-web-2",
     "retos-web",
     "primer-parcial/2022",
-    "primer-parcial/2021",
-    "primer-parcial/2019",
-    "primer-parcial"
+    "primer-parcial/2021"
   ]
 }
