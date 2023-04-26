@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8b49e02c8db0949",
+        "id": "4244596b1fa0e8f8",
         "type": "tabs",
         "children": [
           {
-            "id": "37dab8f9858d0d1c",
+            "id": "4b977edcfe101882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "segundo-parcial/retos-forensic/07-St3g0...md",
+                "file": "retos-Crypto/08-rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "segundo-parcial/retos-forensic/07-St3g0...md",
+                "file": "retos-Crypto/08-rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "segundo-parcial/retos-forensic/07-St3g0...md",
+                "file": "retos-Crypto/08-rsa-pop-quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "segundo-parcial/retos-forensic/07-St3g0...md"
+                "file": "retos-Crypto/08-rsa-pop-quiz.md"
               }
             }
           }
@@ -146,22 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37dab8f9858d0d1c",
+  "active": "4b977edcfe101882",
   "lastOpenFiles": [
+    "retos-Crypto/09-miniRSA.md",
+    "retos-Crypto/08-rsa-pop-quiz.md",
+    "retos-Crypto/07-Waves over lambda.md",
+    "retos-Crypto/10-b00tl3gRSA2.md",
+    "retos-Crypto/Plantilla.md",
+    "segundo-parcial/retos-forensic/07-St3g0...md",
     "segundo-parcial/retos-forensic/05-Packets Primer.md",
     "segundo-parcial/retos-forensic/06-Redaction gone wrong.md",
-    "segundo-parcial/retos-forensic/07-St3g0...md",
     "retos-Forensic/06-m00nwalk.md",
     "segundo-parcial/Plantilla.md",
     "segundo-parcial/retos-forensic/04-Lookey Here.md",
     "segundo-parcial/retos-forensic/03-Enhance!.md",
     "segundo-parcial/retos-forensic/02-Wireshark doo dooo do doo...md",
     "segundo-parcial/retos-forensic/01-Information.md",
-    "retos-Crypto/Plantilla.md",
     "retos-Crypto/04-Caesar.md",
     "retos-Crypto/05-la cifra de.md",
     "retos-Crypto/06-Tapping.md",
-    "retos-Crypto/07-Waves over lambda.md",
     "retos-Crypto/01-The Numbers.md",
     "retos-Crypto/02-Easy1.md",
     "retos-Crypto/03-13.md",
@@ -172,9 +175,6 @@
     "segundo-parcial/retos-web/08-Secrets.md",
     "segundo-parcial/retos-web/07-Roboto Sans.md",
     "segundo-parcial/Untitled.md",
-    "segundo-parcial/retos-web/06-Power Cookie.md",
-    "segundo-parcial/retos-web/05-Forbidden Paths.md",
-    "segundo-parcial/retos-web/04-Search Source.md",
     "segundo-parcial/retos-forensic",
     "segundo-parcial/retos-web",
     "segundo-parcial",
