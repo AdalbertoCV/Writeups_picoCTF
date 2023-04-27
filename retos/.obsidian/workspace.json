@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b977edcfe101882",
+            "id": "04dc7d2368b1ad9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Crypto/08-rsa-pop-quiz.md",
+                "file": "retos-Crypto/15-ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Crypto/08-rsa-pop-quiz.md",
+                "file": "retos-Crypto/15-ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Crypto/08-rsa-pop-quiz.md",
+                "file": "retos-Crypto/15-ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Crypto/08-rsa-pop-quiz.md"
+                "file": "retos-Crypto/15-ReadMyCert.md"
               }
             }
           }
@@ -146,13 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b977edcfe101882",
+  "active": "04dc7d2368b1ad9a",
   "lastOpenFiles": [
-    "retos-Crypto/09-miniRSA.md",
-    "retos-Crypto/08-rsa-pop-quiz.md",
-    "retos-Crypto/07-Waves over lambda.md",
-    "retos-Crypto/10-b00tl3gRSA2.md",
     "retos-Crypto/Plantilla.md",
+    "retos-Crypto/15-ReadMyCert.md",
+    "retos-Crypto/14-HideToSee.md",
+    "retos-Crypto/13-basic-mod1.md",
+    "retos-Crypto/12-Pixelated.md",
+    "retos-Crypto/11-Mind your Ps and Qs.md",
+    "retos-Crypto/10-b00tl3gRSA2.md",
+    "retos-Crypto/08-rsa-pop-quiz.md",
+    "retos-Crypto/09-miniRSA.md",
+    "retos-Crypto/07-Waves over lambda.md",
     "segundo-parcial/retos-forensic/07-St3g0...md",
     "segundo-parcial/retos-forensic/05-Packets Primer.md",
     "segundo-parcial/retos-forensic/06-Redaction gone wrong.md",
@@ -169,12 +174,7 @@
     "retos-Crypto/02-Easy1.md",
     "retos-Crypto/03-13.md",
     "primer-parcial/Plantilla.md",
-    "segundo-parcial/retos-web/01-Includes.md",
-    "segundo-parcial/retos-web/09-SQL Direct.md",
     "retos-Crypto",
-    "segundo-parcial/retos-web/08-Secrets.md",
-    "segundo-parcial/retos-web/07-Roboto Sans.md",
-    "segundo-parcial/Untitled.md",
     "segundo-parcial/retos-forensic",
     "segundo-parcial/retos-web",
     "segundo-parcial",
