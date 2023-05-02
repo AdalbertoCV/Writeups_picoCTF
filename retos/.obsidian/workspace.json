@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4244596b1fa0e8f8",
+        "id": "d604b1a2256e9ed1",
         "type": "tabs",
         "children": [
           {
-            "id": "04dc7d2368b1ad9a",
+            "id": "990b0e3d22938fb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-Crypto/15-ReadMyCert.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Crypto/15-ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Crypto/15-ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "retos-Crypto/15-ReadMyCert.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04dc7d2368b1ad9a",
+  "active": "990b0e3d22938fb6",
   "lastOpenFiles": [
-    "retos-Crypto/Plantilla.md",
-    "retos-Crypto/15-ReadMyCert.md",
+    "retos-RE/03-vault-door-3.md",
+    "retos-RE/01-vault-door-training.md",
+    "retos-RE/02-vault-door-1.md",
+    "retos-RE/04-vault-door-4.md",
+    "retos-RE/Plantilla 1.md",
     "retos-Crypto/14-HideToSee.md",
+    "retos-RE",
+    "retos-Crypto/15-ReadMyCert.md",
+    "retos-Crypto/Plantilla.md",
     "retos-Crypto/13-basic-mod1.md",
     "retos-Crypto/12-Pixelated.md",
     "retos-Crypto/11-Mind your Ps and Qs.md",
@@ -169,11 +167,6 @@
     "segundo-parcial/retos-forensic/01-Information.md",
     "retos-Crypto/04-Caesar.md",
     "retos-Crypto/05-la cifra de.md",
-    "retos-Crypto/06-Tapping.md",
-    "retos-Crypto/01-The Numbers.md",
-    "retos-Crypto/02-Easy1.md",
-    "retos-Crypto/03-13.md",
-    "primer-parcial/Plantilla.md",
     "retos-Crypto",
     "segundo-parcial/retos-forensic",
     "segundo-parcial/retos-web",
@@ -185,7 +178,6 @@
     "Pasted image 20230313183507.png",
     "retos-web-2",
     "retos-web",
-    "primer-parcial/2022",
-    "primer-parcial/2021"
+    "primer-parcial/2022"
   ]
 }
