@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d604b1a2256e9ed1",
+        "id": "6a2a2987eb0f7695",
         "type": "tabs",
         "children": [
           {
-            "id": "990b0e3d22938fb6",
+            "id": "e007ada63ad751ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "retos-RE/05-asm1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "556bc77c82bd3d3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "retos-RE/05-asm1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "retos-RE/05-asm1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "retos-RE/05-asm1.md"
+              }
             }
           }
         ]
@@ -138,13 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "990b0e3d22938fb6",
+  "active": "e007ada63ad751ff",
   "lastOpenFiles": [
+    "retos-RE/04-vault-door-4.md",
+    "retos-RE/05-asm1.md",
+    "retos-RE/07-asm3.md",
+    "retos-RE/06-asm2.md",
+    "retos-RE/02-vault-door-1.md",
+    "retos-RE/Plantilla 1.md",
     "retos-RE/03-vault-door-3.md",
     "retos-RE/01-vault-door-training.md",
-    "retos-RE/02-vault-door-1.md",
-    "retos-RE/04-vault-door-4.md",
-    "retos-RE/Plantilla 1.md",
     "retos-Crypto/14-HideToSee.md",
     "retos-RE",
     "retos-Crypto/15-ReadMyCert.md",
@@ -164,9 +183,6 @@
     "segundo-parcial/retos-forensic/04-Lookey Here.md",
     "segundo-parcial/retos-forensic/03-Enhance!.md",
     "segundo-parcial/retos-forensic/02-Wireshark doo dooo do doo...md",
-    "segundo-parcial/retos-forensic/01-Information.md",
-    "retos-Crypto/04-Caesar.md",
-    "retos-Crypto/05-la cifra de.md",
     "retos-Crypto",
     "segundo-parcial/retos-forensic",
     "segundo-parcial/retos-web",
