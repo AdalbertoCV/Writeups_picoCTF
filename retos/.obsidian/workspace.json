@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a2a2987eb0f7695",
+        "id": "bb9b2827a8771541",
         "type": "tabs",
         "children": [
           {
-            "id": "e007ada63ad751ff",
+            "id": "fb1272b80ce42c96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-RE/11-Safe opener 2.md",
+                "file": "retos-Binary-Exploitation/03-Buffer Overflow 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-RE/11-Safe opener 2.md",
+                "file": "retos-Binary-Exploitation/03-Buffer Overflow 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-RE/11-Safe opener 2.md",
+                "file": "retos-Binary-Exploitation/03-Buffer Overflow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-RE/11-Safe opener 2.md"
+                "file": "retos-Binary-Exploitation/03-Buffer Overflow 1.md"
               }
             }
           }
@@ -154,10 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e007ada63ad751ff",
+  "active": "fb1272b80ce42c96",
   "lastOpenFiles": [
-    "retos-RE/10-reverse_cipher.md",
+    "retos-Binary-Exploitation/03-Buffer Overflow 1.md",
+    "retos-Binary-Exploitation/Plantilla.md",
+    "retos-Binary-Exploitation/02-Buffer Overflow 0.md",
+    "retos-Binary-Exploitation/01-basic-file-exploit.md",
+    "retos-Binary-Exploitation",
     "retos-RE/11-Safe opener 2.md",
+    "retos-RE/10-reverse_cipher.md",
     "retos-RE/Plantilla 1.md",
     "retos-RE/09-GDB Test Drive.md",
     "retos-RE/08-Need For Speed.md",
@@ -171,7 +176,6 @@
     "retos-Crypto/14-HideToSee.md",
     "retos-RE",
     "retos-Crypto/15-ReadMyCert.md",
-    "retos-Crypto/Plantilla.md",
     "retos-Crypto/13-basic-mod1.md",
     "retos-Crypto/12-Pixelated.md",
     "retos-Crypto/11-Mind your Ps and Qs.md",
@@ -180,9 +184,6 @@
     "retos-Crypto/09-miniRSA.md",
     "retos-Crypto/07-Waves over lambda.md",
     "segundo-parcial/retos-forensic/07-St3g0...md",
-    "segundo-parcial/retos-forensic/05-Packets Primer.md",
-    "segundo-parcial/retos-forensic/06-Redaction gone wrong.md",
-    "retos-Forensic/06-m00nwalk.md",
     "retos-Crypto",
     "segundo-parcial/retos-forensic",
     "segundo-parcial/retos-web",
@@ -193,7 +194,6 @@
     "retos-Forensic",
     "Pasted image 20230313183507.png",
     "retos-web-2",
-    "retos-web",
-    "primer-parcial/2022"
+    "retos-web"
   ]
 }
