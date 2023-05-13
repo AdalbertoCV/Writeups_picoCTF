@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Binary-Exploitation/03-Buffer Overflow 1.md",
+                "file": "retos-Binary-Exploitation/05-Stonks.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Binary-Exploitation/03-Buffer Overflow 1.md",
+                "file": "retos-Binary-Exploitation/05-Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Binary-Exploitation/03-Buffer Overflow 1.md",
+                "file": "retos-Binary-Exploitation/05-Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Binary-Exploitation/03-Buffer Overflow 1.md"
+                "file": "retos-Binary-Exploitation/05-Stonks.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "fb1272b80ce42c96",
   "lastOpenFiles": [
-    "retos-Binary-Exploitation/03-Buffer Overflow 1.md",
+    "retos-Binary-Exploitation/04-flag leak.md",
+    "retos-Binary-Exploitation/05-Stonks.md",
     "retos-Binary-Exploitation/Plantilla.md",
+    "retos-Binary-Exploitation/03-Buffer Overflow 1.md",
     "retos-Binary-Exploitation/02-Buffer Overflow 0.md",
     "retos-Binary-Exploitation/01-basic-file-exploit.md",
     "retos-Binary-Exploitation",
@@ -182,8 +184,6 @@
     "retos-Crypto/10-b00tl3gRSA2.md",
     "retos-Crypto/08-rsa-pop-quiz.md",
     "retos-Crypto/09-miniRSA.md",
-    "retos-Crypto/07-Waves over lambda.md",
-    "segundo-parcial/retos-forensic/07-St3g0...md",
     "retos-Crypto",
     "segundo-parcial/retos-forensic",
     "segundo-parcial/retos-web",
