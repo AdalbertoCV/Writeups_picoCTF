@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb9b2827a8771541",
+        "id": "c0de77793e2ab59e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb1272b80ce42c96",
+            "id": "7a27dde3cceff68c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Binary-Exploitation/05-Stonks.md",
+                "file": "tercer-parcial/retos-binary/04-two-sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Binary-Exploitation/05-Stonks.md",
+                "file": "tercer-parcial/retos-binary/04-two-sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Binary-Exploitation/05-Stonks.md",
+                "file": "tercer-parcial/retos-binary/04-two-sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Binary-Exploitation/05-Stonks.md"
+                "file": "tercer-parcial/retos-binary/04-two-sum.md"
               }
             }
           }
@@ -154,46 +154,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb1272b80ce42c96",
+  "active": "7a27dde3cceff68c",
   "lastOpenFiles": [
-    "retos-Binary-Exploitation/04-flag leak.md",
-    "retos-Binary-Exploitation/05-Stonks.md",
-    "retos-Binary-Exploitation/Plantilla.md",
+    "tercer-parcial/retos-binary/03-clutter-overflow.md",
+    "tercer-parcial/retos-binary/04-two-sum.md",
+    "tercer-parcial/Plantilla.md",
+    "tercer-parcial/retos-binary/02-Local Target.md",
     "retos-Binary-Exploitation/03-Buffer Overflow 1.md",
+    "tercer-parcial/retos-binary/01-Picker IV.md",
+    "tercer-parcial/retos-reversing/07-GDB baby step 2.md",
+    "tercer-parcial/retos-reversing/06-GDB baby step 1.md",
+    "tercer-parcial/retos-reversing/05-Bit-O-Asm-4.md",
+    "tercer-parcial/retos-reversing/04-Bit-O-Asm-3.md",
+    "tercer-parcial/retos-reversing/03-Bit-O-Asm-2.md",
+    "tercer-parcial/retos-reversing/01-ASCII FTW.md",
+    "tercer-parcial/retos-reversing/02-Bit-O-Asm-1.md",
+    "tercer-parcial/retos-crypto/05-SRA.md",
+    "tercer-parcial/retos-crypto/04-Vigenere.md",
+    "tercer-parcial/retos-crypto/03-transposition-trial.md",
+    "tercer-parcial/retos-crypto/02-Mr-Wolrdwide.md",
+    "tercer-parcial/retos-crypto/01-Flags.md",
+    "retos-Binary-Exploitation/05-Stonks.md",
+    "tercer-parcial/retos-binary",
+    "tercer-parcial/retos-reversing",
+    "tercer-parcial/retos-crypto",
+    "tercer-parcial",
+    "retos-Binary-Exploitation/04-flag leak.md",
+    "retos-Binary-Exploitation/Plantilla.md",
     "retos-Binary-Exploitation/02-Buffer Overflow 0.md",
     "retos-Binary-Exploitation/01-basic-file-exploit.md",
     "retos-Binary-Exploitation",
     "retos-RE/11-Safe opener 2.md",
     "retos-RE/10-reverse_cipher.md",
     "retos-RE/Plantilla 1.md",
-    "retos-RE/09-GDB Test Drive.md",
-    "retos-RE/08-Need For Speed.md",
-    "retos-RE/05-asm1.md",
-    "retos-RE/04-vault-door-4.md",
-    "retos-RE/07-asm3.md",
-    "retos-RE/06-asm2.md",
-    "retos-RE/02-vault-door-1.md",
-    "retos-RE/03-vault-door-3.md",
-    "retos-RE/01-vault-door-training.md",
-    "retos-Crypto/14-HideToSee.md",
     "retos-RE",
-    "retos-Crypto/15-ReadMyCert.md",
-    "retos-Crypto/13-basic-mod1.md",
-    "retos-Crypto/12-Pixelated.md",
-    "retos-Crypto/11-Mind your Ps and Qs.md",
-    "retos-Crypto/10-b00tl3gRSA2.md",
-    "retos-Crypto/08-rsa-pop-quiz.md",
-    "retos-Crypto/09-miniRSA.md",
     "retos-Crypto",
     "segundo-parcial/retos-forensic",
     "segundo-parcial/retos-web",
     "segundo-parcial",
-    "Concurso",
     "Pasted image 20230322120823.png",
     "Pasted image 20230322120811.png",
-    "retos-Forensic",
-    "Pasted image 20230313183507.png",
-    "retos-web-2",
-    "retos-web"
+    "Pasted image 20230313183507.png"
   ]
 }
