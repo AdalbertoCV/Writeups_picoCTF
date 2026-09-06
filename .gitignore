@@ -1,0 +1,10 @@
+# Estado local de Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Accesos directos de Windows
+*.lnk
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
